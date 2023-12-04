@@ -11,7 +11,7 @@ This project was developed within the scope of the course "Integrated Project 2"
 • Description of the essence of the event, emphasizing the importance of networking between final-year students and companies, highlighting potential professional opportunities.
 • Section with contact information to facilitate communication and engagement for interested parties.
 
-##Technologies Utilized:
+## Technology Stack:
 
 **HTML/CSS/JavaScript/React**
 
